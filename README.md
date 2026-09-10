@@ -92,7 +92,7 @@ to four attempts until everything passes.
 
 <p>
 <img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-1F2328?style=flat-square&logo=langgraph&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/Llama%203.1%208B-1F2328?style=flat-square&logo=meta&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=white">
 </p>
@@ -100,7 +100,7 @@ to four attempts until everything passes.
 </td>
 <td width="50%" valign="top">
 
-#### [Kolbeh](https://hosseingorji05.github.io/restaurant-website/) &nbsp;<img src="https://img.shields.io/badge/live-2563EB?style=flat-square" align="top">
+#### [Kolbeh](https://hosseingorji05.github.io/Kolbeh/) &nbsp;<img src="https://img.shields.io/badge/live-2563EB?style=flat-square" align="top">
 
 <p><sub><samp>MAY 2025 – JUN 2026 · FREELANCE</samp></sub></p>
 
@@ -117,7 +117,7 @@ queries, input sanitization, and CORS.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-1F2328?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express-1F2328?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite3-1F2328?style=flat-square&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/bcrypt-1F2328?style=flat-square&logo=letsencrypt&logoColor=white">
@@ -142,7 +142,7 @@ queries in <b>under 20&nbsp;ms</b>.
 
 <p>
 <img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GeoPandas-1F2328?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/GeoPandas-2563EB?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/GIS-1F2328?style=flat-square&logo=qgis&logoColor=white">
 <img src="https://img.shields.io/badge/Edge%20Compute-1F2328?style=flat-square&logo=nvidia&logoColor=white">
 </p>
@@ -228,11 +228,15 @@ queries in <b>under 20&nbsp;ms</b>.
 ### <samp>04 · ON GITHUB</samp>
 
 <a href="https://github.com/HosseinGorji05">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=HosseinGorji05&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=808080&hide_title=true&hide=issues" alt="GitHub stats">
+<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HosseinGorji05&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=808080&dates=808080&stroke=808080&sideNums=808080&currStreakNum=2563EB">
 </a>
 <a href="https://github.com/HosseinGorji05">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinGorji05&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=808080&langs_count=6" alt="Top languages">
+<img height="165" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HosseinGorji05&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=808080&langs_count=6">
 </a>
+
+<p><sub><samp>CONTRIBUTIONS · PAST YEAR</samp></sub></p>
+
+<img alt="Contribution graph" src="https://ghchart.rshah.org/2563EB/HosseinGorji05" width="100%">
 
 <samp>─────────────────────────────────────────────────────────────────────</samp>
 
