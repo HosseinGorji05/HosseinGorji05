@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="138" viewBox="0 0 1000 138" role="img" aria-labelledby="t">
+  <title id="t">80% HumanEval strict pass rate (Executo) · 91% line coverage across 27 tests (Expense Tracker API) · 3rd of 20+ teams at Cursor Hackathon Toronto · under 20 ms spatial queries (Delatio, NVIDIA Spark Hack)</title>
+  <style>
+    .num{font:700 38px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#e6edf3;letter-spacing:-1px}
+    .lbl{font:500 14.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#e6edf3}
+    .src{font:500 10.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#8b949e;letter-spacing:1.4px}
+  </style>
+  <g class="tile t0">
+    <rect x="1" y="1" width="233" height="136" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="22" y="22" width="22" height="3" rx="1.5" fill="#58a6ff"/>
+    <text class="num" x="22" y="70">80%</text>
+    <text class="lbl" x="22" y="96">HumanEval strict pass rate</text>
+    <text class="src" x="22" y="119">EXECUTO</text>
+  </g>
+  <g class="tile t1">
+    <rect x="256" y="1" width="233" height="136" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="277" y="22" width="22" height="3" rx="1.5" fill="#58a6ff"/>
+    <text class="num" x="277" y="70">91%</text>
+    <text class="lbl" x="277" y="96">line coverage · 27 tests</text>
+    <text class="src" x="277" y="119">EXPENSE TRACKER API</text>
+  </g>
+  <g class="tile t2">
+    <rect x="511" y="1" width="233" height="136" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="532" y="22" width="22" height="3" rx="1.5" fill="#58a6ff"/>
+    <text class="num" x="532" y="70">3rd</text>
+    <text class="lbl" x="532" y="96">of 20+ teams · 296 hackers</text>
+    <text class="src" x="532" y="119">CURSOR HACKATHON TORONTO</text>
+  </g>
+  <g class="tile t3">
+    <rect x="766" y="1" width="233" height="136" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="787" y="22" width="22" height="3" rx="1.5" fill="#58a6ff"/>
+    <text class="num" x="787" y="70">&lt;20 ms</text>
+    <text class="lbl" x="787" y="96">spatial query latency</text>
+    <text class="src" x="787" y="119">DELATIO · NVIDIA</text>
+  </g>
+</svg>
