@@ -1,267 +1,264 @@
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
-<h2>Hossein&nbsp;Gorji</h2>
-
-<p><samp>FULL-STACK DEVELOPER &nbsp;·&nbsp; TORONTO, ON</samp></p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1500&color=2563EB&center=true&vCenter=true&width=700&lines=Hossein+Gorji;Full-Stack+Developer;Computer+Science+%40+York+University;Applied+AI+with+real+guardrails)
 
 <p>
-I build things that <b>actually run</b> — REST APIs, auth, data modeling,
-and responsive front-ends — and I keep going until they're in someone's
-hands. Currently a Computer Science (Honours) student at
-<b>York University</b>, working across the full stack and into
-agentic AI systems.
+  <a href="https://hosseingorji05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-hosseingorji05.github.io-0aa?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hossein-gorji-745488281"><img src="https://img.shields.io/badge/LinkedIn-Hossein-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:hoseingorji1383@gmail.com"><img src="https://img.shields.io/badge/Gmail-hoseingorji1383@gmail.com-ea4335?style=flat-square&logo=gmail" alt="Gmail" /></a>
 </p>
 
 <p>
-Most of my work starts as a real constraint: a family restaurant that
-needed a menu customers could scan, a hackathon clock with one hour on it,
-an edge node with no cloud to fall back on.
+  <img src="https://img.shields.io/badge/Open%20to%20co--op%20%26%20internship-2027-2563EB?style=flat-square" alt="Open to co-op 2027" />
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/hossein-gorji-745488281">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://hosseingorji05.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-1F2328?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:hoseingorji1383@gmail.com">
-<img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Open%20to%20co--op%20%26%20internship-2027-2563EB?style=flat-square&labelColor=1F2328" alt="Open to co-op 2027">
-</p>
+---
 
-</td>
-<td width="38%" valign="top">
+### About
 
-<p><samp><b>&nbsp;SIGNAL</b></samp></p>
+Full-stack developer and **3rd-year Computer Science student** at **York University** (Co-op Program), Toronto. I ship tested, production-shaped software for real clients, and build applied-AI systems with real guardrails around model output.
 
-<p>
-<samp><b>3rd&nbsp;/&nbsp;20+&nbsp;teams</b></samp><br>
-<sub>Cursor Hackathon Toronto · 296 participants</sub>
-</p>
+- 🎓 **B.Sc. Honours Computer Science**, York University — expected **May 2028**, enrolled in the Co-op Program
+- 🤖 **Executo** — self-correcting coding agent passing **80%** of the HumanEval benchmark
+- ✅ **Expense Tracker API** — Java Spring Boot API at **91% line coverage** across 27 tests
+- 🏆 **3rd of 20+ teams** (296 participants) at Cursor Hackathon Toronto
+- 💼 Freelance developer — comfortable owning a feature end-to-end and translating technical decisions for non-technical stakeholders
+- 📫 **Reach me:** hoseingorji1383@gmail.com
+- 🌐 **Languages:** English (full proficiency) · Persian (fluent)
 
-<p>
-<samp><b>1&nbsp;app&nbsp;in&nbsp;production</b></samp><br>
-<sub>Kolbeh — live restaurant platform, real customers</sub>
-</p>
+---
 
-<p>
-<samp><b>5&nbsp;hackathons&nbsp;&amp;&nbsp;visits</b></samp><br>
-<sub>NVIDIA · Cursor · GDG · Google Toronto HQ</sub>
-</p>
+### Experience
 
-<p>
-<samp><b>B.Sc.&nbsp;CS&nbsp;(Hons)&nbsp;·&nbsp;2028</b></samp><br>
-<sub>York University, Toronto</sub>
-</p>
+**Freelance Frontend Developer** · [Grano](https://github.com/HosseinGorji05/grano) &nbsp;·&nbsp; <sub>Aug 2026 – Present · Remote, client in Toronto</sub>
 
-</td>
-</tr>
-</table>
-
-<samp>─────────────────────────────────────────────────────────────────────</samp>
-
-### <samp>01 · CURRENT FOCUS</samp>
-
-> **Agentic systems that verify their own work.** I'm less interested in
-> models that generate code than in loops that *test* what they generated,
-> read the failure, and try again. Executo is where that thinking lives.
+Shipped a production-ready frontend for a non-technical client, passing full cross-browser and **WCAG AA** accessibility QA before launch — translating client requirements into HTML/CSS/vanilla JavaScript bundled via esbuild for a zero-build-step deploy.
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Freelance Web Developer** · [Kolbeh Restaurant](https://hosseingorji05.github.io/Kolbeh/) <img src="https://img.shields.io/badge/live-2563EB?style=flat-square" align="top" /> &nbsp;·&nbsp; <sub>May 2025 – Jun 2026 · Remote, client in Iran</sub>
 
-#### [Executo](https://github.com/HosseinGorji05/Executo)
+Became the client's primary digital storefront — **36 active users and 529 tracked events in a single week** (+80% and +61.3% week-over-week per Google Analytics) — by gathering requirements from a non-technical owner and designing, building, and deploying a fully responsive, QR-code-accessible restaurant website. Eliminated SQL-injection and unauthorized-access vectors in the live backend with parameterized queries across every database call, input sanitization, and CORS policies.
 
-<p><sub><samp>JUN 2026 · PERSONAL</samp></sub></p>
+<sub>Node.js · Express · SQLite3 · bcrypt</sub>
 
-<p>
-A self-correcting Python code-generation agent. Takes a plain-English
-prompt, writes the code <i>and</i> the unit tests, runs both inside a
-network-isolated Docker sandbox with capped CPU/RAM, and iterates up
-to four attempts until everything passes.
-</p>
+---
 
-<p><b>80%</b> strict pass rate on a 30-task HumanEval sample —
-~1.5 attempts per solved task.</p>
+### Projects
 
-<p>
-<img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logo=langgraph&logoColor=white">
-<img src="https://img.shields.io/badge/Llama%203.1%208B-1F2328?style=flat-square&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=white">
-</p>
+**[Expense Tracker API](https://github.com/HosseinGorji05/Expense-Tracker)** &nbsp;·&nbsp; <sub>Sep 2026 · Solo</sub>
 
-</td>
-<td width="50%" valign="top">
+Containerized **Java Spring Boot** REST API (7 endpoints: 5 CRUD, 2 Groq LLM-backed) for expense tracking and AI-assisted budgeting. A 27-test JUnit 5 + Spring MockMvc suite passes at **91% line coverage** in GitHub Actions CI, with all 8 AI-endpoint tests running fully offline via mocked HTTP. Every LLM response is validated against an allow-list, AI-suggested cuts are clamped to real category spend, and a deterministic heuristic takes over when the model errs.
 
-#### [Kolbeh](https://hosseingorji05.github.io/Kolbeh/) &nbsp;<img src="https://img.shields.io/badge/live-2563EB?style=flat-square" align="top">
+<sub>Java · Spring Boot · Spring Data JPA · JUnit 5 · Groq · Docker</sub>
 
-<p><sub><samp>MAY 2025 – JUN 2026 · FREELANCE</samp></sub></p>
+<br>
 
-<p>
-A restaurant platform running in production for a family business in
-Iran — customers reach it by scanning a QR code at the table, and it's
-the storefront the business actually depends on.
-</p>
+**Synergo** &nbsp;·&nbsp; <sub>Jul 2026 · Hack the Valley</sub>
 
-<p>
-Node.js + Express over SQLite3 (30+ menu items), bcrypt auth,
-role-based access, favorites. Endpoints hardened with parameterized
-queries, input sanitization, and CORS.
-</p>
+A shared, live conflict-detection dashboard for teammates *and* AI agents editing the same codebase — conflict banners fire **before git does** when two watchers touch the same file. Built as a FastAPI + WebSockets relay with in-memory rooms and broadcast, plus Gemini-backed caption/conflict classification with heuristic fallbacks.
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-1F2328?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite3-1F2328?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/bcrypt-1F2328?style=flat-square&logo=letsencrypt&logoColor=white">
-</p>
+<sub>Python · FastAPI · WebSockets · Gemini</sub>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br>
 
-#### [Delatio](https://github.com/AdrianShah/NVIDIA-SparkHacks)
+**[Executo](https://github.com/HosseinGorji05/Executo)** &nbsp;·&nbsp; <sub>Jun 2026 · Solo</sub>
 
-<p><sub><samp>MAY 2026 · NVIDIA SPARK HACK TORONTO · 5-PERSON TEAM</samp></sub></p>
+Self-correcting Python AI agent achieving an **80% strict pass rate** on the HumanEval coding benchmark, verified by a 35-test automated regression suite run on every push/PR across two GitHub Actions workflows. LangGraph orchestrates Llama 3.1 8B via Groq to diagnose and fix failing solutions across up to 4 attempts inside an isolated, network-disabled Docker sandbox — validating every change against the test suite before accepting it.
 
-<p>
-A local-first, edge-compute urban risk-intelligence platform running dual
-proactive/reactive AI loops on a single NVIDIA Grace Blackwell GB10 node
-with <b>zero cloud dependencies</b>. I owned the GIS data layer — turning raw
-Toronto Open Data into an in-memory GeoPandas structure answering spatial
-queries in <b>under 20&nbsp;ms</b>.
-</p>
+<sub>Python · LangGraph · Llama 3.1 8B · Groq · Docker</sub>
 
-<p>
-<img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GeoPandas-2563EB?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/GIS-1F2328?style=flat-square&logo=qgis&logoColor=white">
-<img src="https://img.shields.io/badge/Edge%20Compute-1F2328?style=flat-square&logo=nvidia&logoColor=white">
-</p>
+<br>
 
-</td>
-</tr>
-</table>
+**Lens & Love** &nbsp;·&nbsp; <sub>Jun 2026 · Cursor Hackathon Toronto — 3rd of 20+ teams</sub>
 
-<samp>─────────────────────────────────────────────────────────────────────</samp>
+Built the invoicing, payments, and voice-command systems for a wedding-photography SaaS MVP — working core product in **30 minutes**, full dashboard by deadline. Live hands-free voice commands ("create invoice," "add overtime," "what's my revenue") drive real-time calculations over custom package tiers, automatic deposit scheduling, and overtime line items.
 
-### <samp>02 · TOOLKIT</samp>
+<sub>React · TypeScript · Tailwind</sub>
+
+<br>
+
+**[Delatio](https://github.com/AdrianShah/NVIDIA-SparkHacks)** &nbsp;·&nbsp; <sub>May 2026 · NVIDIA Spark Hack Toronto · 5-person team</sub>
+
+Enabled **sub-20 ms spatial queries** for the team's autonomous agent by owning the data layer end-to-end — a Python pipeline that ingested, cleaned, and structured raw Toronto Open Data across multiple civic datasets into a queryable in-memory structure.
+
+<sub>Python · pandas · GeoPandas</sub>
+
+---
+
+### Tech Stack
 
 <table>
-<tr>
-<td valign="middle"><samp><b>Languages</b></samp></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-1F2328?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/C-1F2328?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-1F2328?style=flat-square&logo=gnubash&logoColor=white">
-</td>
-</tr>
-<tr>
-<td valign="middle"><samp><b>Front-end</b></samp></td>
-<td>
-<img src="https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-1F2328?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1F2328?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-1F2328?style=flat-square&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Accessibility%20WCAG%20AA-1F2328?style=flat-square&logo=accessibleicon&logoColor=white">
-</td>
-</tr>
-<tr>
-<td valign="middle"><samp><b>Back-end &amp; data</b></samp></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-1F2328?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-1F2328?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-1F2328?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-1F2328?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-1F2328?style=flat-square&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/Firestore-1F2328?style=flat-square&logo=firebase&logoColor=white">
-</td>
-</tr>
-<tr>
-<td valign="middle"><samp><b>AI &amp; agents</b></samp></td>
-<td>
-<img src="https://img.shields.io/badge/LangGraph-1F2328?style=flat-square&logo=langgraph&logoColor=white">
-<img src="https://img.shields.io/badge/Groq-1F2328?style=flat-square&logo=groq&logoColor=white">
-<img src="https://img.shields.io/badge/HumanEval-1F2328?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/GeoPandas-1F2328?style=flat-square&logo=pandas&logoColor=white">
-</td>
-</tr>
-<tr>
-<td valign="middle"><samp><b>Tooling</b></samp></td>
-<td>
-<img src="https://img.shields.io/badge/Git-1F2328?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-1F2328?style=flat-square&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-1F2328?style=flat-square&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/esbuild-1F2328?style=flat-square&logo=esbuild&logoColor=white">
-<img src="https://img.shields.io/badge/Cursor-1F2328?style=flat-square&logo=cursor&logoColor=white">
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite3" />
+      <br>SQLite3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firestore" />
+      <br>Firestore
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
 </table>
 
-<samp>─────────────────────────────────────────────────────────────────────</samp>
+**AI & GenAI** &nbsp;
+<img src="https://img.shields.io/badge/LLM%20Integration-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Guardrails%20%26%20Allow--Listing-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Workflows-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Groq-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-1F2328?style=flat-square&logo=googlegemini&logoColor=white" />
 
-### <samp>03 · IN THE ROOM</samp>
+**Testing** &nbsp;
+<img src="https://img.shields.io/badge/JUnit%205-1F2328?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20MockMvc-1F2328?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Regression%20Suites-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%2FCD%20Test%20Automation-1F2328?style=flat-square" />
 
-<table>
-<tr><td><sub><samp>JUL 2026</samp></sub></td><td><b>Google Toronto HQ</b><br><sub>Engineering, AI &amp; innovation visit via GDG on Campus @ York — live student demo, time with Google engineers.</sub></td></tr>
-<tr><td><sub><samp>JUL 2026</samp></sub></td><td><b>Build with AI: Code the Cup</b> · GDG Toronto<br><sub>90-minute hackathon. Shipped Fan Translator — an offline-ready translator and World Cup phrasebook.</sub></td></tr>
-<tr><td><sub><samp>JUN 2026</samp></sub></td><td><b>Cursor Hackathon Toronto</b> — <b>3rd of 20+ teams</b><br><sub>Lens &amp; Love, a wedding-photographer SaaS with invoicing and a voice assistant, built in a one-hour sprint.</sub></td></tr>
-<tr><td><sub><samp>MAY 2026</samp></sub></td><td><b>NVIDIA Spark Hack Toronto</b><br><sub>Delatio — owned the GIS layer on a Grace Blackwell GB10 edge node.</sub></td></tr>
-<tr><td><sub><samp>FEB 2026</samp></sub></td><td><b>CTRL+HACK+DEL</b><br><sub><a href="https://adrianshah.github.io/CTRL-DEL-HACK-2.0---Potluck-App./index.html">Potluckio</a> — real-time group meal planning with live Firestore item-claiming. Led UI/UX and Git workflow.</sub></td></tr>
-</table>
+**Frontend & data** &nbsp;
+<img src="https://img.shields.io/badge/Accessibility%20WCAG%20AA-1F2328?style=flat-square&logo=accessibleicon&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Design-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/pandas-1F2328?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoPandas-1F2328?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-1F2328?style=flat-square" />
+<img src="https://img.shields.io/badge/esbuild-1F2328?style=flat-square&logo=esbuild&logoColor=white" />
 
-<samp>─────────────────────────────────────────────────────────────────────</samp>
+---
 
-### <samp>04 · ON GITHUB</samp>
+### Activity
+
+<div align="center">
 
 <a href="https://github.com/HosseinGorji05">
-<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HosseinGorji05&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=808080&dates=808080&stroke=808080&sideNums=808080&currStreakNum=2563EB">
+<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HosseinGorji05&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=808080&dates=808080&stroke=808080&sideNums=808080&currStreakNum=2563EB" />
 </a>
 <a href="https://github.com/HosseinGorji05">
-<img height="165" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HosseinGorji05&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=808080&langs_count=6">
+<img height="165" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HosseinGorji05&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=808080&langs_count=6" />
 </a>
 
-<p><sub><samp>CONTRIBUTIONS · PAST YEAR</samp></sub></p>
+<img alt="Contribution graph" src="https://ghchart.rshah.org/2563EB/HosseinGorji05" width="90%" />
 
-<img alt="Contribution graph" src="https://ghchart.rshah.org/2563EB/HosseinGorji05" width="100%">
+</div>
 
-<samp>─────────────────────────────────────────────────────────────────────</samp>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-<p><samp><b>Currently looking for a co-op or internship in 2027.</b></samp></p>
+<sub>Currently looking for a **co-op or internship in 2027**.<br />
+If you're building something where the backend has to hold up and the front-end has to feel right, I'd like to hear about it.</sub>
 
-<p>
-If you're building something where the backend has to hold up and the
-front-end has to feel right, I'd like to hear about it.
-</p>
+<br /><br />
 
-</td>
-<td width="40%" valign="top">
+<details>
+<summary>Profile stats</summary>
+<br />
 
-<p>
-<a href="mailto:hoseingorji1383@gmail.com"><samp>hoseingorji1383@gmail.com</samp></a><br>
-<a href="https://www.linkedin.com/in/hossein-gorji-745488281"><samp>linkedin.com/in/hossein-gorji</samp></a><br>
-<a href="https://hosseingorji05.github.io/Portfolio/"><samp>hosseingorji05.github.io</samp></a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=HosseinGorji05&style=flat-square&color=2563eb)
 
-<p><sub><samp>English (full) · Persian (fluent) · Toronto, ON</samp></sub></p>
+</details>
 
-</td>
-</tr>
-</table>
+</div>
