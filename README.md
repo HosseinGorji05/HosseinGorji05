@@ -1,34 +1,45 @@
-<a href="https://hosseingorji05.github.io/Portfolio/">
+<!-- Terminal-style profile. Portrait, wordmark, and heatmap are self-hosted SVGs in assets/.
+     The heatmap refreshes daily via .github/workflows/update-profile-art.yml. -->
+<div align="center">
+
+<h3><code>HosseinGorji05@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="assets/portrait.svg" width="336" alt="Hossein Gorji — ASCII portrait" /></td>
+<td valign="top"><img src="assets/wordmark.svg" width="457" alt="HOSSEIN — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<p><b>Full-Stack Developer · Applied AI · Computer Science (Honours) @ York University</b></p>
+
+<p>I ship tested, production-shaped software for real clients, and build applied-AI systems with real guardrails around model output.</p>
+
+<br>
+
+<h3><code>HosseinGorji05@github ~ $ ./contributions.sh</code></h3>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img alt="Hossein Gorji — Full-stack developer and applied-AI builder. Computer Science (Honours) at York University, Co-op Program, Toronto. Open to co-op and internship roles in 2027." src="assets/banner-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-heatmap-dark.svg" />
+  <img src="assets/contrib-heatmap-light.svg" width="860" alt="GitHub contribution graph — refreshed daily" />
 </picture>
-</a>
 
-<p align="center">
-  <a href="https://hosseingorji05.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hossein-gorji-745488281"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hoseingorji1383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HosseinGorji05?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
+<br>
 
-### <samp>~/about</samp>
-
-Full-stack developer and 3rd-year Computer Science student who ships **tested, production-shaped software** for real clients — and builds applied-AI systems with **real guardrails around model output**. Comfortable owning a feature end-to-end: requirements, build, testing, deployment, and explaining the technical calls to non-technical stakeholders.
+<h3><code>HosseinGorji05@github ~ $ ./metrics.sh</code></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg" />
   <img alt="80% HumanEval strict pass rate (Executo). 91% line coverage across 27 tests (Expense Tracker API). 3rd of 20+ teams, 296 participants (Cursor Hackathon Toronto). Under 20 ms spatial queries (Delatio, NVIDIA Spark Hack)." src="assets/metrics-light.svg" width="100%" />
 </picture>
 
-<p align="center"><br /><sub><samp>B.Sc. Honours Computer Science · York University · expected May 2028</samp><br /><samp>English (full) · Persian (fluent) &nbsp;·&nbsp; <a href="mailto:hoseingorji1383@gmail.com">hoseingorji1383@gmail.com</a></samp></sub></p>
+<br>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-  <img alt="" src="assets/divider-light.svg" width="100%" />
-</picture>
+<h3><code>HosseinGorji05@github ~ $ ./stack.sh</code></h3>
 
-### <samp>~/stack</samp>
+</div>
 
 <table>
 <tr>
@@ -265,27 +276,19 @@ Full-stack developer and 3rd-year Computer Science student who ships **tested, p
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-  <img alt="" src="assets/divider-light.svg" width="100%" />
-</picture>
+<div align="center">
 
-### <samp>~/activity</samp>
+<br>
 
-<p align="center">
-  <a href="https://github.com/HosseinGorji05"><img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HosseinGorji05&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=808080&dates=808080&stroke=808080&sideNums=808080&currStreakNum=2563EB" /></a>
-</p>
+<h3><code>HosseinGorji05@github ~ $ ./links.sh</code></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
-  <img alt="" src="assets/divider-light.svg" width="100%" />
-</picture>
+<p><b>Open to co-op &amp; internship roles for 2027</b><br>
+<sub>B.Sc. Honours Computer Science · York University · expected May 2028 · Toronto, ON</sub></p>
 
-<p align="center">
-  <b>Open to co-op &amp; internship roles for 2027.</b><br />
-  <sub>If you're building something where the backend has to hold up and the front-end has to feel right, I'd like to hear about it.</sub>
-</p>
+<a href="https://hosseingorji05.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-hosseingorji05.github.io-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hossein-gorji-745488281"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hossein%20Gorji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hoseingorji1383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hoseingorji1383%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=HosseinGorji05&style=flat-square&color=2563eb&label=profile+views" />
-</p>
+<br>
+
+</div>
